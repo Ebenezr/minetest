@@ -1,0 +1,60 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1.5px;
+}
+#form1{
+align-items: center;
+}
+form{
+background-color: rgba(0, 0, 0, 0.404);
+width: 400px;
+height: 300px;
+padding: 20px 30px;
+margin: auto;
+border-radius: 1%;
+
+}
+input{
+    width: 100%;
+    padding:7px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 0%;
+    border: none;
+}
+label{
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 12px;
+    color: black;
+}
+#submit{
+    border-radius: 11px;
+    width: 120px;
+    align-items: center;
+    background-color: red;
+    border:none;
+    color:white;
+    font-size: larger;
+   
+    
+    
+}
+#submit:hover{
+    background-color: white;
+    color:red;
+}
+.btn{
+    display:flex;
+    justify-content: center;
+}
+#mar{
+    text-align: center;
+    font-size: 38px;
+    color: white;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+
+}
